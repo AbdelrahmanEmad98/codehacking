@@ -1,0 +1,1 @@
+<h1>Yarab {{$user->name}}</h1>
